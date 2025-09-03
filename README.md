@@ -2,6 +2,7 @@
 
 Este documento recopila prompts de Inteligencia Artificial específicamente diseñados para miembros de cámaras de comercio de CONCAMIN, cubriendo generación de imágenes, búsqueda profunda y análisis de documentos con NotebookLM.
 
+
 ---
 
 ### Prompts para Generación de Imágenes
@@ -9,34 +10,34 @@ Este documento recopila prompts de Inteligencia Artificial específicamente dise
 #### Marketing Empresarial
 
 *   ```
-    Como diseñador gráfico experto, genera una imagen de un producto innovador en un entorno de comercio electrónico. Incluye el texto "Descubre el Futuro" de forma destacada. El diseño debe ser limpio y minimalista, resaltando sus características. Estilo: fotografía de producto, alta resolución, iluminación de estudio.
+    Como especialista en branding, genera una imagen de un producto innovador en un entorno de comercio electrónico. Incluye el texto "Descubre el Futuro" de forma destacada, con una tipografía moderna y limpia. El diseño debe ser minimalista, resaltando sus características clave. Estilo: fotografía de producto, alta resolución, iluminación de estudio.
     ```
 *   ```
-    Como diseñador gráfico experto, crea una imagen de un equipo de trabajo colaborando en una oficina moderna. Añade el texto "Colaboración Exitosa" en un banner discreto. La imagen debe transmitir profesionalismo y dinamismo. Estilo: fotografía corporativa, natural y auténtica.
+    Actuando como director de arte, crea una imagen de un equipo de trabajo colaborando en una oficina moderna. Añade el texto "Colaboración Exitosa" en un sutil banner digital o pantalla. La composición debe transmitir profesionalismo y dinamismo. Estilo: fotografía corporativa, natural y auténtica.
     ```
 *   ```
-    Como diseñador gráfico experto, diseña una imagen para una campaña de redes sociales que promueva un servicio de consultoría empresarial. Incorpora el texto "Impulsa tu Negocio" con una tipografía audaz. Utiliza elementos gráficos que simbolicen crecimiento y éxito. Estilo: ilustración vectorial, colores corporativos, diseño amigable.
+    Como estratega visual para redes sociales, diseña una imagen para una campaña que promueva un servicio de consultoría empresarial. Incorpora el texto "Impulsa tu Negocio" con una tipografía audaz y un color vibrante. Utiliza elementos gráficos que simbolicen crecimiento y éxito. Estilo: ilustración vectorial, colores corporativos, diseño amigable.
     ```
 *   ```
-    Como diseñador gráfico experto, genera una imagen de un evento de networking empresarial, con personas interactuando y tarjetas de presentación. El texto "Conecta y Crece" debe aparecer en una pantalla de fondo o cartel. El ambiente debe ser profesional y amigable. Estilo: fotografía de eventos, dinámico y con enfoque en las interacciones.
+    Eres un fotógrafo de eventos. Genera una imagen de un evento de networking empresarial, con personas interactuando y tarjetas de presentación. El texto "Conecta y Crece" debe aparecer en una pantalla de fondo o cartel visible. El ambiente debe ser profesional y amigable, con un enfoque dinámico en las interacciones.
     ```
 *   ```
-    Como diseñador gráfico experto, crea una imagen de un logotipo abstracto que represente la globalización y el comercio internacional. El texto "CONCAMIN Global" debe estar integrado de manera elegante. Utiliza líneas fluidas y colores que inspiren confianza. Estilo: diseño de logotipo, moderno y versátil.
+    Como experto en diseño de logotipos, crea una imagen de un logotipo abstracto que represente la globalización y el comercio internacional. El texto "CONCAMIN Global" debe estar integrado de manera elegante en el diseño. Utiliza líneas fluidas y colores que inspiren confianza. Estilo: diseño de logotipo, moderno y versátil.
     ```
 
 #### Para Generación de Imágenes (usando GPT-4o)
 
 *   ```
-    Como diseñador gráfico experto, crea una imagen profesional para un post de Instagram anunciando nuestro webinar 'El Futuro de la Energía Sostenible en la Industria'. Usa una paleta de colores verdes y azules, con íconos de paneles solares y turbinas eólicas. El texto principal debe ser "Webinar Gratuito" y la fecha "25 de octubre", claramente visibles. Estilo minimalista y moderno.
+    Eres un publicista digital. Crea una imagen profesional para un post de Instagram anunciando nuestro webinar 'El Futuro de la Energía Sostenible en la Industria'. Usa una paleta de colores verdes y azules, con íconos de paneles solares y turbinas eólicas. El texto principal debe ser "Webinar Gratuito" y la fecha "25 de octubre", claramente visibles y con alto contraste. Estilo minimalista y moderno.
     ```
 *   ```
-    Como diseñador gráfico experto, genera un banner para Facebook para la campaña de afiliación 2025. Debe mostrar a un grupo diverso de profesionales de la industria en una reunión, con un tono optimista. Incluye el logo de CONCAMIN y el eslogan "Creciendo Juntos" de manera prominente.
+    Como diseñador de campañas de marketing, genera un banner para Facebook para la campaña de afiliación 2025. Debe mostrar a un grupo diverso de profesionales de la industria en una reunión, con un tono optimista. Incluye el logo de CONCAMIN y el eslogan "Creciendo Juntos" de manera prominente y legible.
     ```
 *   ```
-    Como diseñador gráfico experto, crea un ícono para una presentación de PowerPoint que represente el concepto de 'cadena de suministro resiliente'. Aunque es un ícono, incluye de forma sutil las siglas "CSR". Estilo isométrico, limpio y corporativo.
+    Actuando como creador de elementos visuales para presentaciones, crea un ícono para una presentación de PowerPoint que represente el concepto de 'cadena de suministro resiliente'. Aunque es un ícono, incluye de forma sutil las siglas "CSR" en un pequeño detalle. Estilo isométrico, limpio y corporativo.
     ```
 *   ```
-    Como diseñador gráfico experto, diseña una imagen conceptual para la portada de nuestro reporte anual. Debe simbolizar el crecimiento industrial en México, fusionando un gráfico de barras ascendente con el mapa de la república. El título del reporte "Reporte Anual 2025" debe ser legible en la imagen. Estilo fotorrealista.
+    Eres un artista conceptual especializado en informes corporativos. Diseña una imagen conceptual para la portada de nuestro reporte anual. Debe simbolizar el crecimiento industrial en México, fusionando un gráfico de barras ascendente con el mapa de la república. El título del reporte "Reporte Anual 2025" debe ser legible y armonioso con el diseño general. Estilo fotorrealista.
     ```
 
 ---
