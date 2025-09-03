@@ -44,41 +44,7 @@ Este documento recopila prompts de Inteligencia Artificial específicamente dise
 
 ### Prompts para Búsqueda Profunda
 
-#### Investigación de Mercados
 
-*   ```
-    Realiza una búsqueda exhaustiva sobre las tendencias emergentes en el turismo de aventura en México, identificando los destinos más populares, el perfil demográfico de los viajeros y las proyecciones de crecimiento para los próximos 5 años. Incluye datos de fuentes confiables como la Secretaría de Turismo, INEGI y organismos internacionales.
-    ```
-*   ```
-    Investiga el impacto de la digitalización en el sector de pequeñas y medianas empresas (PyMES) en México. Enfócate en la adopción de comercio electrónico, herramientas de marketing digital y el uso de plataformas de pago en línea. Proporciona ejemplos de casos de éxito y desafíos comunes.
-    ```
-*   ```
-    Analiza el mercado de productos orgánicos en México, con un enfoque en la demanda del consumidor, los principales productores y distribuidores, y las oportunidades de exportación para empresas mexicanas. Incluye regulaciones y certificaciones relevantes.
-    ```
-*   ```
-    Identifica las principales oportunidades de inversión en el sector automotriz en México, considerando la llegada de nuevas empresas, la expansión de las existentes y la cadena de suministro local. Proporciona datos sobre la fuerza laboral calificada y los incentivos gubernamentales.
-    ```
-*   ```
-    Realiza una investigación sobre las preferencias de los turistas internacionales que visitan México. ¿Qué tipo de alojamiento prefieren? ¿Qué actividades realizan? ¿Cuál es su gasto promedio? Utiliza encuestas, estudios de caso y datos de plataformas de reservas.
-    ```
-
-#### Análisis de Competencia
-
-*   ```
-    Identifica a los principales competidores de México como destino turístico a nivel nacional e internacional. Analiza sus estrategias de marketing, sus ventajas competitivas y sus debilidades. ¿Qué podemos aprender de ellos para mejorar la promoción turística de México?
-    ```
-*   ```
-    Realiza un análisis de la competencia para una empresa de calzado en México que busca expandirse al mercado de exportación. Identifica a los principales fabricantes de calzado en países como Italia, España y Brasil. Compara sus modelos de negocio, precios, calidad y canales de distribución.
-    ```
-*   ```
-    Investiga las estrategias de precios de los hoteles boutique en ciudades coloniales de México. ¿Cómo fijan sus tarifas? ¿Qué servicios adicionales ofrecen? ¿Cómo se diferencian de la competencia?
-    ```
-*   ```
-    Analiza las campañas de promoción de inversión de otros países o regiones que compiten con México por la atracción de empresas. ¿Qué incentivos ofrecen? ¿Qué sectores priorizan? ¿Cómo comunican sus ventajas competitivas?
-    ```
-*   ```
-    Identifica a los principales proveedores de servicios logísticos en México. Compara sus tarifas, tiempos de entrega, cobertura y especialización. ¿Cuál sería el proveedor más adecuado para una empresa de manufactura en México?
-    ```
 
 #### Tendencias Económicas
 
@@ -100,9 +66,7 @@ Este documento recopila prompts de Inteligencia Artificial específicamente dise
 
 #### Oportunidades de Negocio
 
-*   ```
-    Identifica nichos de mercado no explotados en el sector turístico de México, como el turismo de bienestar, el turismo cultural especializado o el turismo rural. Proporciona ejemplos de modelos de negocio exitosos en estas áreas y cómo podrían replicarse en México.
-    ```
+*  
 *   ```
     Realiza una investigación sobre las oportunidades de negocio en la economía plateada (mercado de adultos mayores) en México. ¿Qué productos y servicios son demandados por este segmento de la población? ¿Cómo pueden las empresas adaptar sus ofertas para satisfacer estas necesidades?
     ```
@@ -116,4 +80,4 @@ Este documento recopila prompts de Inteligencia Artificial específicamente dise
     Identifica oportunidades de negocio en la exportación de productos agroindustriales de México a mercados internacionales. ¿Qué productos tienen mayor potencial? ¿Cuáles son los requisitos de importación en los mercados objetivo? ¿Qué apoyos gubernamentales existen para la exportación?
     ```
 
-#
+
