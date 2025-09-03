@@ -1,6 +1,3 @@
-
----
-
 ## Prompts de IA para Miembros de Cámaras de Comercio (CONCAMIN)
 
 Este documento recopila prompts de Inteligencia Artificial específicamente diseñados para miembros de cámaras de comercio de CONCAMIN, cubriendo generación de imágenes, búsqueda profunda y análisis de documentos con NotebookLM.
@@ -12,34 +9,34 @@ Este documento recopila prompts de Inteligencia Artificial específicamente dise
 #### Marketing Empresarial
 
 *   ```
-    Genera una imagen de un producto innovador en un entorno de comercio electrónico, con un diseño limpio y minimalista que resalte sus características. Estilo: fotografía de producto, alta resolución, iluminación de estudio.
+    Como diseñador gráfico experto, genera una imagen de un producto innovador en un entorno de comercio electrónico. Incluye el texto "Descubre el Futuro" de forma destacada. El diseño debe ser limpio y minimalista, resaltando sus características. Estilo: fotografía de producto, alta resolución, iluminación de estudio.
     ```
 *   ```
-    Crea una imagen de un equipo de trabajo colaborando en una oficina moderna, que transmita profesionalismo y dinamismo. Estilo: fotografía corporativa, natural y auténtica.
+    Como diseñador gráfico experto, crea una imagen de un equipo de trabajo colaborando en una oficina moderna. Añade el texto "Colaboración Exitosa" en un banner discreto. La imagen debe transmitir profesionalismo y dinamismo. Estilo: fotografía corporativa, natural y auténtica.
     ```
 *   ```
-    Diseña una imagen para una campaña de redes sociales que promueva un servicio de consultoría empresarial, utilizando elementos gráficos que simbolicen crecimiento y éxito. Estilo: ilustración vectorial, colores corporativos, diseño amigable.
+    Como diseñador gráfico experto, diseña una imagen para una campaña de redes sociales que promueva un servicio de consultoría empresarial. Incorpora el texto "Impulsa tu Negocio" con una tipografía audaz. Utiliza elementos gráficos que simbolicen crecimiento y éxito. Estilo: ilustración vectorial, colores corporativos, diseño amigable.
     ```
 *   ```
-    Genera una imagen de un evento de networking empresarial, con personas interactuando, tarjetas de presentación y un ambiente profesional y amigable. Estilo: fotografía de eventos, dinámico y con enfoque en las interacciones.
+    Como diseñador gráfico experto, genera una imagen de un evento de networking empresarial, con personas interactuando y tarjetas de presentación. El texto "Conecta y Crece" debe aparecer en una pantalla de fondo o cartel. El ambiente debe ser profesional y amigable. Estilo: fotografía de eventos, dinámico y con enfoque en las interacciones.
     ```
 *   ```
-    Crea una imagen de un logotipo abstracto que represente la globalización y el comercio internacional, con líneas fluidas y colores que inspiren confianza. Estilo: diseño de logotipo, moderno y versátil.
+    Como diseñador gráfico experto, crea una imagen de un logotipo abstracto que represente la globalización y el comercio internacional. El texto "CONCAMIN Global" debe estar integrado de manera elegante. Utiliza líneas fluidas y colores que inspiren confianza. Estilo: diseño de logotipo, moderno y versátil.
     ```
 
 #### Para Generación de Imágenes (usando GPT-4o)
 
 *   ```
-    Crea una imagen profesional para un post de Instagram anunciando nuestro webinar 'El Futuro de la Energía Sostenible en la Industria'. Usa una paleta de colores verdes y azules, con íconos de paneles solares y turbinas eólicas. Estilo minimalista y moderno. Texto principal: 'Webinar Gratuito'. Fecha: 25 de octubre.
+    Como diseñador gráfico experto, crea una imagen profesional para un post de Instagram anunciando nuestro webinar 'El Futuro de la Energía Sostenible en la Industria'. Usa una paleta de colores verdes y azules, con íconos de paneles solares y turbinas eólicas. El texto principal debe ser "Webinar Gratuito" y la fecha "25 de octubre", claramente visibles. Estilo minimalista y moderno.
     ```
 *   ```
-    Genera un banner para Facebook para la campaña de afiliación 2025. Debe mostrar a un grupo diverso de profesionales de la industria en una reunión, con un tono optimista. Incluye el logo de CONCAMIN y el eslogan 'Creciendo Juntos'.
+    Como diseñador gráfico experto, genera un banner para Facebook para la campaña de afiliación 2025. Debe mostrar a un grupo diverso de profesionales de la industria en una reunión, con un tono optimista. Incluye el logo de CONCAMIN y el eslogan "Creciendo Juntos" de manera prominente.
     ```
 *   ```
-    Crea un ícono para una presentación de PowerPoint que represente el concepto de 'cadena de suministro resiliente'. Estilo isométrico, limpio y corporativo.
+    Como diseñador gráfico experto, crea un ícono para una presentación de PowerPoint que represente el concepto de 'cadena de suministro resiliente'. Aunque es un ícono, incluye de forma sutil las siglas "CSR". Estilo isométrico, limpio y corporativo.
     ```
 *   ```
-    Diseña una imagen conceptual para la portada de nuestro reporte anual. Debe simbolizar el crecimiento industrial en México, fusionando un gráfico de barras ascendente con el mapa de la república. Estilo fotorrealista.
+    Como diseñador gráfico experto, diseña una imagen conceptual para la portada de nuestro reporte anual. Debe simbolizar el crecimiento industrial en México, fusionando un gráfico de barras ascendente con el mapa de la república. El título del reporte "Reporte Anual 2025" debe ser legible en la imagen. Estilo fotorrealista.
     ```
 
 ---
@@ -118,104 +115,4 @@ Este documento recopila prompts de Inteligencia Artificial específicamente dise
     Identifica oportunidades de negocio en la exportación de productos agroindustriales de México a mercados internacionales. ¿Qué productos tienen mayor potencial? ¿Cuáles son los requisitos de importación en los mercados objetivo? ¿Qué apoyos gubernamentales existen para la exportación?
     ```
 
-#### Para Búsqueda Profunda y Creación de Contenido (usando GPT-4o)
-
-*   ```
-    Actúa como un experto en comunicación corporativa. Redacta el borrador de un discurso de bienvenida de 3 minutos para nuestro evento anual, dirigido a empresarios y funcionarios de gobierno. El tema central es la innovación como motor de la competitividad.
-    ```
-*   ```
-    Escribe un correo electrónico para invitar a los miembros de la cámara a participar en una encuesta sobre los desafíos regulatorios. El tono debe ser formal pero cercano, enfatizando la importancia de su participación.
-    ```
-*   ```
-    Somos una cámara del sector aeroespacial. Realiza un análisis FODA preliminar para nuestro sector en México, basándote en información pública reciente.
-    ```
-*   ```
-    Dame una agenda estructurada para una sesión de planeación estratégica de 2 horas. El objetivo es definir las prioridades de la cámara para el próximo año. Incluye tiempos y actividades.
-    ```
-*   ```
-    Analiza las últimas noticias y reportes sobre 'nearshoring' en México. ¿Cuáles son los 3 estados con mayor inversión anunciada en el último semestre y en qué sectores?
-    ```
-
----
-
-### Prompts para Análisis de Documentos con NotebookLM
-
-#### Reportes Económicos
-
-*   ```
-    Analiza el reporte adjunto del INEGI sobre el Producto Interno Bruto (PIB) de México. Identifica los sectores económicos que mostraron mayor crecimiento y aquellos que experimentaron contracción. Explica las posibles causas de estas variaciones y su impacto en la economía nacional.
-    ```
-*   ```
-    Revisa el informe de la Secretaría de Economía sobre la balanza comercial de México. Identifica los principales productos de exportación e importación, así como los países socios comerciales más importantes. Evalúa si existe un superávit o déficit comercial y sus implicaciones.
-    ```
-*   ```
-    Examina el reporte de inflación del Banco de México (documento adjunto) y su impacto en el poder adquisitivo de los habitantes de México. Identifica los bienes y servicios que han experimentado mayores aumentos de precio y sugiere posibles medidas para mitigar sus efectos.
-    ```
-*   ```
-    Analiza el informe de empleo y salarios del IMSS (documento adjunto) para México. Identifica los sectores con mayor generación de empleo y aquellos con mayor crecimiento salarial. Compara estos datos con el promedio nacional y evalúa la calidad del empleo generado.
-    ```
-*   ```
-    Revisa el reporte de inversión extranjera directa (IED) en México (documento adjunto). Identifica los países de origen de la inversión, los sectores receptores y el monto total de la IED. Evalúa el impacto de esta inversión en la creación de empleo y el desarrollo tecnológico.
-    ```
-
-#### Estudios de Mercado
-
-*   ```
-    Analiza el estudio de mercado adjunto sobre las preferencias del consumidor para productos de calzado en México. Identifica las tendencias de diseño, los rangos de precios aceptables y los canales de compra preferidos. Resume las oportunidades para una marca de calzado mexicana.
-    ```
-*   ```
-    Revisa el estudio de viabilidad adjunto para la apertura de un nuevo hotel boutique en una ciudad colonial de México. Evalúa la demanda proyectada, la competencia existente, los costos de inversión y los ingresos esperados. Determina si el proyecto es financieramente viable y cuáles son los principales riesgos.
-    ```
-*   ```
-    Examina el estudio de mercado adjunto sobre la demanda de servicios de logística y transporte en una región estratégica de México. Identifica los tipos de servicios más solicitados, los principales clientes y las expectativas de crecimiento. Sugiere estrategias para una empresa de logística que busca expandir su participación en el mercado.
-    ```
-*   ```
-    Analiza el estudio de mercado adjunto sobre las oportunidades de exportación para productos agroindustriales mexicanos en el mercado estadounidense. Identifica los productos con mayor potencial, los requisitos sanitarios y fitosanitarios, y los canales de distribución. Resume las barreras de entrada y las estrategias para superarlas.
-    ```
-*   ```
-    Revisa el estudio de mercado adjunto sobre la adopción de tecnologías de la Industria 4.0 en las empresas manufactureras de México. Identifica las tecnologías más implementadas, los beneficios percibidos y los desafíos. Sugiere programas de capacitación o incentivos para fomentar una mayor adopción.
-    ```
-
-#### Documentos Empresariales
-
-*   ```
-    Analiza el plan de negocios adjunto de una startup tecnológica. Identifica la propuesta de valor, el modelo de ingresos, el análisis de mercado y las proyecciones financieras. Evalúa la solidez del plan y señala posibles áreas de mejora o riesgos.
-    ```
-*   ```
-    Revisa el contrato de asociación adjunto entre dos empresas. Resume las cláusulas clave relacionadas con la distribución de ganancias, las responsabilidades de cada parte y los mecanismos de resolución de disputas. Identifica cualquier ambigüedad o riesgo legal.
-    ```
-*   ```
-    Examina el informe de auditoría financiera adjunto de una empresa. Identifica las principales observaciones, las recomendaciones y cualquier irregularidad detectada. Evalúa la salud financiera de la empresa con base en este informe.
-    ```
-*   ```
-    Analiza el manual de operaciones adjunto de una planta manufacturera. Resume los procedimientos clave de producción, los estándares de calidad y las medidas de seguridad. Identifica posibles cuellos de botella o áreas donde se podría mejorar la eficiencia.
-    ```
-*   ```
-    Revisa el informe de sostenibilidad adjunto de una empresa. Identifica las iniciativas clave en materia ambiental, social y de gobernanza (ESG). Evalúa el compromiso de la empresa con la sostenibilidad y su impacto en la comunidad y el medio ambiente.
-    ```
-
-#### Para Análisis de Documentos (usando NotebookLM)
-
-*   ```
-    Del documento cargado, extrae los 5 puntos clave más importantes para un director general.
-    ```
-*   ```
-    Crea un resumen en formato de bullet points sobre las conclusiones principales del reporte.
-    ```
-*   ```
-    Genera un resumen de 280 caracteres para compartir en Twitter sobre este documento.
-    ```
-*   ```
-    Analiza esta iniciativa de ley. ¿Qué posibles riesgos operativos o financieros presenta para las empresas del sector [menciona el sector]?
-    ```
-*   ```
-    Basado en este estudio de mercado, ¿qué 3 oportunidades de negocio surgen para las empresas de logística en la región del Bajío?
-    ```
-*   ```
-    Crea una lista de 10 posibles preguntas que un periodista haría sobre este comunicado de prensa.
-    ```
-*   ```
-    Genera una sección de Preguntas Frecuentes (FAQ) a partir de este manual de cumplimiento normativo.
-    ```
-
----
+#
